@@ -9,3 +9,4 @@ hyperledger/fabric-orderer:2.2.7
 hyperledger/fabric-ccenv:2.2.7
 hyperledger/fabric-baseos:2.2.7
 hyperledger/fabric-javaenv:2.2
+openjdk:8
