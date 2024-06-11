@@ -1,2 +1,11 @@
 alpine
 mysql:5.7
+redis:5.0.5-alpine
+nginx:latest
+couchdb:3.1.1
+hyperledger/fabric-tools:2.2.7
+hyperledger/fabric-peer:2.2.7
+hyperledger/fabric-orderer:2.2.7
+hyperledger/fabric-ccenv:2.2.7
+hyperledger/fabric-baseos:2.2.7
+hyperledger/fabric-javaenv:2.2
