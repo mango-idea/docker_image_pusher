@@ -1,1 +1,1 @@
-bitnami/postgresql:13.17.0
+peneuler/openeuler:22.03
