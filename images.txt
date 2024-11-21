@@ -1,1 +1,1 @@
-postgres:12.21
+postgres:15.9-bullseye
