@@ -1,2 +1,1 @@
-bitnami/git:latest
-node:lts-alpine
+openjdk:17
