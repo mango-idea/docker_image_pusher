@@ -1,1 +1,2 @@
-postgres:14-bullseye
+bitnami/git:latest
+node:lts-alpine
